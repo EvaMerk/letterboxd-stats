@@ -1,0 +1,7 @@
+data/raw_data/
+data/processed_data/
+
+# pipenv
+.venv/
+__pycache__/
+*.pyc
